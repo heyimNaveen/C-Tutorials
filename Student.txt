@@ -1,0 +1,3 @@
+Student name is : naveen
+Student age is : 19
+Student cgpa is : 9.200000
